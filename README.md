@@ -11,7 +11,7 @@ This is a React application created to showcase a variety of courses and provide
 5. Clean and responsive design for a user-friendly experience.
 
 # Clone the repository
-git clone https://github.com/meenakshiiyer2531/MY-COURSE_APP.git
+git clone [https://github.com/meenakshiiyer2531/MY-COURSE_APP.git](https://github.com/meenakshiiyer2531/MY-COURSE-APP.git)
 
 # Navigate to the project directory
 cd MY-COURSE-APP
