@@ -1,0 +1,39 @@
+/* Global styles for the entire application */
+
+/* Basic reset for consistency */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General font and spacing settings */
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f5f5f5;
+}
+
+/* Text formatting for readability */
+p {
+  margin-bottom: 1em;
+}
+
+/* Basic styling for links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Clearfix utility for layout */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
